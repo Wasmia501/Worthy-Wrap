@@ -18,15 +18,15 @@ This is a beautiful and user-friendly website for gifting and celebration planni
 
 Here are previews of the key pages of the Celebration Moments website:
 
-| ✨ Index Page | 🏠 Home Page |
+| Index Page |  Home Page |
 |--------------|-------------|
 | ![Index](screenshots/Screenshot 2025-06-29 131214.png) | ![Home](screenshots/Screenshot 2025-06-29 131234.png) |
 
-| 🎁 Gift Sample Page | 🎊 Event Page |
+|  Gift Sample Page |  Event Page |
 |---------------------|--------------|
 | ![Gift](screenshots/Screenshot 2025-06-29 131448.png) | ![Event](screenshots/Screenshot 2025-06-29 131321.png) |
 
-| 📅 Book Now Page |
+|  Book Now Page |
 |------------------|
 | ![BookNow](screenshots/Screenshot 2025-06-29 131359.png) |
 
