@@ -28,7 +28,7 @@ Here are previews of the key pages of the Celebration Moments website:
 
 |  Book Now Page |
 |------------------|
-| ![BookNow](screenshots/booking.png)
+| ![BookNow](screenshots/booking1.png)
 
 
 
