@@ -20,7 +20,7 @@ Here are previews of the key pages of the Celebration Moments website:
 
 | Index Page |  Home Page |
 |--------------|-------------|
-| ![Index](screenshots/Screenshot 2025-06-29 131214.png) | ![Home](screenshots/Screenshot 2025-06-29 131234.png) |
+| ![Index](screenshots/Screenshot 2025-06-29 131214.png) | ![Home](screenshots/screenshots/Screenshot 2025-06-29 131234.png) |
 
 |  Gift Sample Page |  Event Page |
 |---------------------|--------------|
